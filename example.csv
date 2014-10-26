@@ -1,0 +1,2 @@
+Action , FunctionalFeature , forceOnTool_X , forceOnTool_Z  , toolVelAtHit_X , toolVelAtHit_Z , InitialToolPos_X , InitialToolPos_Z , FinalToolPos_X , FinalToolPos_Z , InitialLinkPos_X , InitialToolPos_Z , InitialTargetPos_X , InitialTargetPos_Z , targetFinalPos_X , targetFinalPos_Z , targetPlacement_X , targetPlacement_ZtargetDisplacement_X , targetDisplacement_Z
+1942760816 , 0 , -1000.00 , 1000.00 , 17.69 , -0.00 , -0.00 , 40.00 , 75.42 , 30.59 , -54.74 , -17.88 , -25.00 , -5.00 , -40.37 , 79.11 , -29.74 , -12.88 , -15.37 , 84.11

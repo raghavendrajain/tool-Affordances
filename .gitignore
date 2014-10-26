@@ -1,0 +1,6 @@
+*.so
+*.log
+*.pyc
+
+
+file.uselessfile
